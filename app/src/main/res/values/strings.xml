@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SplashScreenTutorial</string>
+    <string name="message">This is Android Splash Screen Tutorial by tutorialwing.com</string>
+</resources>
